@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home_id"
+            android:title="Home">
+        </item>
+
+        <item
+            android:id="@+id/news_id"
+            android:title="News">
+        </item>
+
+        <item
+            android:id="@+id/spotes_id"
+            android:title="Spotes">
+        </item>
+
+        <item
+            android:id="@+id/health_id"
+            android:title="Health">
+        </item>
+
+        <item
+        android:id="@+id/art_id"
+        android:title="Art">
+    </item>
+
+        <item
+        android:id="@+id/travel_id"
+        android:title="Travel">
+    </item>
+
+        <item
+        android:id="@+id/tech_id"
+        android:title="Tech">
+
+    </item>
+        <item
+        android:id="@+id/business_id"
+        android:title="Business">
+    </item>
+
+    </group>
+
+</menu>

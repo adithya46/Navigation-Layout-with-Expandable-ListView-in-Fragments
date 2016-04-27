@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">DemoAppWithNavigation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawe_close">drawer close</string>
+    <string name="news_text">Storms are heading toward Dallas-Fort Worth with the main band expected to reach the area about 10:30 p.m., according to the National Weather Service.
+
+There could also be showers and thunder in the Dallas-area about 7:40 p.m. ahead of the main storm, said meteorologist Juan Hernandez with the weather service.
+
+A tornado watch was issued across North Texas on Tuesday afternoon as severe weather approached the region. The watch, which is in effect until midnight, includes Dallas, Collin, Denton, Kaufman, Rockwall and Tarrant counties.
+
+A line of storms heading east toward Dallas-Fort Worth has been severe so far, and 60 mph winds have been reported in Abilene, the weather service reported.
+
+Heavy rainfall, strong winds, hail and the possibility of tornadoes remain in the forecast, Hernandez said.
+
+The National Weather Service’s Storm Prediction Center described Tuesday’s tornado watch as a “particularly dangerous situation” — a designation that used in “rare situations when long-lived intense tornadoes are likely.”</string>
+
+    <string-array name="header_titles">
+        <item>About ADT Security</item>
+        <item>Spotes News</item>
+        <item>Weather News</item>
+        <item>etc..</item>
+        <item>etc..</item>
+        <item>etc..</item>
+    </string-array>
+
+    <string-array name="h1_story">
+        <item>about ADT security!!!!!</item>
+    </string-array>
+
+    <string-array name="h2_story">
+        <item>spotes news</item>
+    </string-array>
+
+    <string-array name="h3_story">
+        <item>weather news</item>
+    </string-array>
+
+    <string-array name="h4_story">
+        <item>story4</item>
+    </string-array>
+
+    <string-array name="h5_story">
+        <item>story5</item>
+    </string-array>
+
+</resources>
+
+
